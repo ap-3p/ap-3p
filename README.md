@@ -3,7 +3,7 @@
  
      and their applications in Human-Centered Computer Interaction.
 - 🌱 I’m currently learning Python, Design Process and how to build computers from scratch.
-- 💞️ I’m looking to collaborate on anything from a writting a best selling novel to going through huge a
+- 💞️ I’m looking to collaborate on everything. 
 - 📫 How to reach me: [@adityapadmagirwar](https://www.instagram.com/adityapadmagirwar/) | [My Email](adityapadmagirwar@gmail.com)
 
 <!---
