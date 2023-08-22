@@ -7,11 +7,10 @@ A Human, Creating and Designing things.
 I'm a Computer Science and Social Science undergraduate student at IIIT, Delhi. I am interested in learning Mixed Reality and Wearable Technologies and their applications in Human-Centered Computer Interaction. I am also interested in working in visual-interactive storytelling in game development and filmmaking using Mixed Reality. One of my goals in life is to complete the Ironman Triathlon.
 
 * 🌍  I'm based in Mumbai and Delhi, India
-* 🖥️  See my portfolio at [Carrd Landing Page.](http://adityapadma.carrd.co)
 * ✉️  You can contact me at [adityapadmagirwar@gmail.com](mailto:adityapadmagirwar@gmail.com)
 * 🚀  I'm currently working on [My Website.](http://adityapadma.github.io)
 * 🧠  I'm learning at IIIT Delhi
-* 🤝  I'm open to collaborating on Mixed Reality and Wearable Tech, their application in storytelling and human world.
+* 🤝  I'm open to collaborating on Mixed Reality and Wearable Tech, their application in storytelling and the human world.
 * 📫 How to reach me: [@adityapadmagirwar](https://www.instagram.com/adityapadmagirwar/) | [My Email](adityapadmagirwar@gmail.com)
 
 <a href="https://www.twitter.com/aadityapadma" target="_blank" rel="noreferrer"><img
