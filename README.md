@@ -10,5 +10,4 @@ I'm a Computer Science and Social Science undergraduate student at IIIT, Delhi. 
 * 🤝  I'm open to collaborating on Mixed Reality and Wearable Tech, their application in storytelling and the human world.
 * ✉️  You can contact me at [adityapadmagirwar@gmail.com](mailto:adityapadmagirwar@gmail.com)
 
-<a href="https://www.twitter.com/aadityapadma" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/[aadityapadma]?style=social
-"/></a>
+<a href="https://www.twitter.com/aadityapadma" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/[aadityapadma]?style=social"/></a>
