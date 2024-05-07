@@ -14,7 +14,3 @@ I'm a Computer Science and Social Science undergraduate student at IIIT, Delhi. 
 <a href="https://www.twitter.com/aadityapadma" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/aadityapadma?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/adityapadma"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" /></a>
