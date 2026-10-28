@@ -4,7 +4,7 @@ Hello There! My name is Aditya Padmagirwar
 A Human, Creating and Designing things.
 ---------------------------------------
 
-I'm a Computer Science and Social Science undergraduate student at IIIT, Delhi. I am interested in learning Mixed Reality and Wearable Technologies and their applications in Human-Centered Computer Interaction. I am also interested in working in visual-interactive storytelling in game development and filmmaking using Mixed Reality. One of my goals in life is to complete the Ironman Triathlon.
+I'm a Computer Science and Social Science undergraduate from IIIT, Delhi. I am interested in learning Mixed Reality and Wearable Technologies and their applications in Human-Centered Computer Interaction. I am also interested in working in visual-interactive storytelling in game development and filmmaking using Mixed Reality. One of my goals in life is to complete the Ironman Triathlon.
 
 * 🌍  I'm based in Mumbai and Delhi, India
 * 🤝  I'm open to collaborating on Mixed Reality and Wearable Tech, their application in storytelling and the human world.
